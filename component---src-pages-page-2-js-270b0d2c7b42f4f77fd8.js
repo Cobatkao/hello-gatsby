@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[617],{9863:function(e,t,l){"use strict";l.r(t);var r=l(7294),a=l(8037);t.default=function(){return r.createElement("div",null,r.createElement("p",null,"Hello world from my second Gatsby page"),r.createElement(a.ZP,{to:"/"},"back home"))}}}]);
+//# sourceMappingURL=component---src-pages-page-2-js-270b0d2c7b42f4f77fd8.js.map
